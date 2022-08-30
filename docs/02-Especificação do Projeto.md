@@ -30,6 +30,9 @@ Com base na compreensão da rotina das personas elaboradas para este projeto, fo
 |--------------------|------------------------------------|----------------------------------------|
 |Rafaela Miranda     | Ter um prazo de finalização do pedido.| Ter um controle do tempo de preparo e saber se está perto de ser finalizado.|
 |Sebastião Silva     | De uma comunicação mais assertiva e direta com o cliente.| Fornecer um atendimento mais ágil e prático em situações de superlotação.|
+|Sebastião Silva     | Otimizar e automatizar os processos na minha empresa.| Reduzir o tempo de trabalho manual dos funcionários e, consequentemente, isso irá aumentar minha produção e vendas.|
+|Flávia de Souza     | Avaliar a estrutura do estabelecimento, o atendimento, os pratos ou bebibas.| Informar os itens que devem ser melhorados e, assim, contribuir para o aperfeiçoamento do estabelecimento.|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
